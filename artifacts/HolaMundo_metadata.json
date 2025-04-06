@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nuevoMensaje",
+						"type": "string"
+					}
+				],
+				"name": "cambiarMensaje",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "mensaje",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "saludar",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practica1.sol": "HolaMundo"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practica1.sol": {
+			"keccak256": "0xebd12a1f4716acdc2568b95f5650739dcdf0c75c16bca8de9b598d658a8df83b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5dbe234b788291a73275230dfb770ade4508e1bce40aa9e0ecc8b46e38aab2b6",
+				"dweb:/ipfs/QmXaMYU2fSNPwMo5qRoyD7wdiKTCXbXYsf76HpcVodVzo5"
+			]
+		}
+	},
+	"version": 1
+}
