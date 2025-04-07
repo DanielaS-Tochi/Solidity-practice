@@ -140,7 +140,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Practica1.sol": "AlcanciaDigital"
+			"Alcancia.sol": "AlcanciaDigital"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -154,12 +154,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Practica1.sol": {
-			"keccak256": "0xe8da7b24a4843f168c5047dcbf32c4822c92c9a9db2900226cfc0aa212e227f3",
+		"Alcancia.sol": {
+			"keccak256": "0x5b6f4cdd6ae1f8339c888f5c13214729944b392ae79f5ad28bf2382d13f02e19",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bf28903fd6bf2f2bc3334ac58ed0813430276b2fb7e695dd32f520146283d42b",
-				"dweb:/ipfs/QmaHxApdnzrQSSKBHiNpYV2CSD1fJjsVKJbLq6A8YTRgyT"
+				"bzz-raw://269ad2457cb069b5a2bef62abd386c5260934d57b0381f4223caf7a1cb0c07b7",
+				"dweb:/ipfs/QmPChcKkkDJ5jemNJ5zsY1h5MB9ZKxn2F4vhC6rUbfQmov"
 			]
 		}
 	},
